@@ -13,3 +13,5 @@ C'est nul
 
 C'est tre
 s nul
+
+Release 0.2
