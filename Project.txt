@@ -10,3 +10,8 @@ bugfixes
 v0.2
 
 C'est nul
+
+C'est tre
+s nul
+
+Release 0.2
