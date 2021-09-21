@@ -6,3 +6,5 @@ Move
 Ici c'est les mouvements
 
 bugfixes
+
+v0.2
